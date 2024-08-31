@@ -1,0 +1,7 @@
+{
+    "input_directory": "input/",
+    "output_directory": "output/",
+    "img_directory": "img/",
+    "sensors": ["sensor04", "sensor51"],
+    "interval": 10
+}
